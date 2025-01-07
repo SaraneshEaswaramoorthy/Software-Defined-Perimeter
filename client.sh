@@ -30,7 +30,7 @@ echo
 echo
 
 # File path for Go source file
-GO_FILE="client_perm.go"
+GO_FILE="client.go"
 
 # Replace username and service in the Go file
 read -p "Enter service: " service
